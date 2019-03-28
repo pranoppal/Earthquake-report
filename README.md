@@ -1,15 +1,18 @@
-# Friendly-Chat-App
+# Earthquake Report App
 
-A basic chat application with the use of Firebase and its tools.
+- Project QuakeReport of Android Basics Course.
+- [Android Basics:Networking](https://classroom.udacity.com/courses/ud843)
 
 
 
-## Firebase Tools/Products used:
+## Description
 
-- Firebase Realtime Database
-- Firebase Authentication
-- Firebase UI
-- Firebase Storage
+- This app displays a list of recent earthquakes in the world
+- From the U.S. Geological Survey (USGS) organization.
 
-This is a companion app in the Udacity course [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) by Google.
-
+## What I've learned :
+- Using AsyncTasks to connect to the internet.
+- Using AsyncTasksLoader to connect to the internet.
+- Reading and parsing JSON data.
+- Customizing ListViews,using ArrayLists & ArrayAdapters.
+- Using progress bar and listview empty for better UX.
